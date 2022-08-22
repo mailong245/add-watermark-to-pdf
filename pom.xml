@@ -57,6 +57,7 @@
              <configuration>
                  <executable>true</executable>
                  <mainClass>com.example.watermarktopdf.WatermarkToPdfApplication</mainClass>
+                 <start-class>com.example.watermarktopdf.WatermarkToPdfApplication</start-class>
              </configuration>
          </plugin>
          <plugin>
