@@ -55,6 +55,7 @@
              <groupId>org.springframework.boot</groupId>
              <artifactId>spring-boot-maven-plugin</artifactId>
              <configuration>
+<!--                  main class of Spring: org.springframework.boot.loader.JarLauncher -->
                  <executable>true</executable>
                  <mainClass>com.example.watermarktopdf.WatermarkToPdfApplication</mainClass>
                  <start-class>com.example.watermarktopdf.WatermarkToPdfApplication</start-class>
