@@ -56,6 +56,7 @@
              <artifactId>spring-boot-maven-plugin</artifactId>
              <configuration>
                  <executable>true</executable>
+                 <mainClass>com.example.watermarktopdf.WatermarkToPdfApplication</mainClass>
              </configuration>
          </plugin>
          <plugin>
